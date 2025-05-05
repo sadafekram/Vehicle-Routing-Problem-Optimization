@@ -38,6 +38,3 @@ Example of `delivery_info.json` item:
  }
 ```
 
-## Contributions
-
-Contributions are welcome! If you find a bug, have a suggestion, or want to contribute code, please submit an issue or a pull request.
